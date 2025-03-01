@@ -1,0 +1,8 @@
+services:
+  app:
+    image: python:3.9
+    container_name: multi_accounting_system
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    command: python scripts/run_bot.py
