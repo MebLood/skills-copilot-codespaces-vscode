@@ -17,3 +17,11 @@ This repository provides a **comprehensive guide and codebase** for managing mul
 
 ## 🚀 How to Use
 1. Clone the repository:
+2. Navigate to the project folder:
+3. Install dependencies:
+4. Run the project:
+
+## 📌 Contribution
+Feel free to contribute to this repository by opening pull requests.
+
+---
